@@ -19,3 +19,11 @@ button {
   background: plum;
   color: #ffffff;
 }
+
+footer {
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+  color: pink;
+  line-height: 100px;
+  text-align: center;
+}
